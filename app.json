@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "huertify",
+    "slug": "huertify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cucumber_leaf.jpg",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cucumber_leaf.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cucumber_leaf.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cucumber_leaf.jpg"
+    }
+  }
+}
